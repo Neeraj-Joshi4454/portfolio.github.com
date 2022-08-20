@@ -1,0 +1,48 @@
+
+
+.navbar{
+
+    background-color: powderblue !important;
+}
+
+.headerleft{
+
+    /* border: 1px solid red; */
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerright{
+
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerImg{
+
+    height: 350px;
+    width: 350px;
+    border-radius: 300px;
+}
+
+.headrightinfo h1{
+
+    color: turquoise;
+}
+
+.headrightinfo{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.headrightinfo p{
+    color: gray;
+    text-align: center;
+}
